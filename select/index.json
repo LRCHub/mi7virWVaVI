@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Starring!!",
+  "base_artist": "Rhodanthe*",
+  "createdAt": "2026-02-19T19:30:34.859057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The May 4th Movement Starring Doodlebug",
+      "artist": "Digable Planets",
+      "has_synced": true,
+      "path": "select/01_The_May_4th_Movement_Starring_Doodlebug_Digable_Planets.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ye vs. the People (starring TI as the People)",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/02_Ye_vs._the_People_(starring_TI_as_the_People)_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starring Role",
+      "artist": "MARINA",
+      "has_synced": true,
+      "path": "select/03_Starring_Role_MARINA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starring Role",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/04_Starring_Role_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starring Role - Acoustic",
+      "artist": "MARINA",
+      "has_synced": true,
+      "path": "select/05_Starring_Role_-_Acoustic_MARINA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starring Role (Acoustic)",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/06_Starring_Role_(Acoustic)_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Starring Role",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/07_Starring_Role_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Starring Role",
+      "artist": "Marina",
+      "has_synced": true,
+      "path": "select/08_Starring_Role_Marina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Put It On Me (Co-Starring Mimi)",
+      "artist": "Dr. Dre Feat DJ Quik",
+      "has_synced": true,
+      "path": "select/09_Put_It_On_Me_(Co-Starring_Mimi)_Dr._Dre_Feat_DJ_Quik.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Land (Remix) [From The Tonight Show Starring Jimmy Fallon] [feat. Black Thought]",
+      "artist": "Gary Clark Jr. feat. The Roots & Black Thought",
+      "has_synced": true,
+      "path": "select/10_This_Land_(Remix)_[From_The_Tonight_Show_Starring_Jimmy_Fallon]_[feat._Black_Tho_Gary_Clark_Jr._feat._The_Roots_&_Black_Thought.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Land (Remix) [From The Tonight Show Starring Jimmy Fallon] [feat. Black Thought]",
+      "artist": "Gary Clark Jr.",
+      "has_synced": true,
+      "path": "select/11_This_Land_(Remix)_[From_The_Tonight_Show_Starring_Jimmy_Fallon]_[feat._Black_Tho_Gary_Clark_Jr..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Them Girls Like (co-starring Chris Brown and Sean Garrett)",
+      "artist": "Ludacris feat. Chris Brown & Sean Garrett",
+      "has_synced": true,
+      "path": "select/12_What_Them_Girls_Like_(co-starring_Chris_Brown_and_Sean_Garrett)_Ludacris_feat._Chris_Brown_&_Sean_Garrett.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Starring Star",
+      "artist": "KEYTALK",
+      "has_synced": true,
+      "path": "select/13_Starring_Star_KEYTALK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Starring Star",
+      "artist": "KEYTALK",
+      "has_synced": true,
+      "path": "select/14_Starring_Star_KEYTALK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "クウフク (starring VALSHE)",
+      "artist": "今夜、あの街から feat. VALSHE",
+      "has_synced": true,
+      "path": "select/15_クウフク_(starring_VALSHE)_今夜、あの街から_feat._VALSHE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "クウフク (starring VALSHE)",
+      "artist": "今夜、あの街から/VALSHE",
+      "has_synced": true,
+      "path": "select/16_クウフク_(starring_VALSHE)_今夜、あの街から_VALSHE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Starring Role",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/17_Starring_Role_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Starring",
+      "artist": "Freelance Whales",
+      "has_synced": true,
+      "path": "select/18_Starring_Freelance_Whales.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sun Will Shine starring NAO☆(Addy)",
+      "artist": "RAM RIDER",
+      "has_synced": false,
+      "path": "select/19_Sun_Will_Shine_starring_NAO☆(Addy)_RAM_RIDER.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starring!!",
+      "artist": "Rhodanthe*",
+      "has_synced": false,
+      "path": "select/pl_01_Starring!!_Rhodanthe.txt"
+    }
+  ]
+}
